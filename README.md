@@ -5,3 +5,4 @@ address
 education
 experience
 certification
+hobbies
