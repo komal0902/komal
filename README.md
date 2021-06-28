@@ -1,1 +1,5 @@
-# komal
+resume
+name
+email
+address
+education
