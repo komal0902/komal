@@ -6,3 +6,5 @@ address
 education
 experience
 certification
+hobbies
+regards
